@@ -1,1 +1,1 @@
-This repo has been moved to [github.com/google/physical-web](github.com/google/physical-web)
+This repo has been moved to [github.com/google/physical-web](http://github.com/google/physical-web)
